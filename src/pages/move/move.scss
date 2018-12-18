@@ -1,0 +1,21 @@
+page-move {
+    #container {
+        width: 500px;
+        height: 500px;
+        position: relative;
+        margin: 100px auto;
+    }
+    #box {
+        width: 200px;
+        height: 200px;
+        position: absolute;
+        background: #1e5799;
+    }
+    #zone {
+        width: 200px;
+        height: 200px;
+        position: absolute;
+        background: #ec3535;
+        bottom: 0;
+    }
+}
